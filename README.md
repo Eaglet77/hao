@@ -3,7 +3,7 @@
 This repository hosts an interactive 3D Principal Component Analysis (PCA) visualization of filtered genomic data for North American ash trees (*Fraxinus* spp.), incorporating latitudinal gradients.
 
 ## 📊 Interactive Visualization
-**[Click here to view the Interactive 3D PCA Plot](https://<your-github-username>.github.io/<your-repo-name>/Total_Filtered_indv95_miss60_DP54_mac3_ld05_PCA_3D_lat.html)**
+**[Click here to view the Interactive 3D PCA Plot](https://Eaglet77.github.io/haolin/Total_Filtered_indv95_miss60_DP54_mac3_ld05_PCA_3D_lat.html)**
 
 *(Note: Replace the URL above with your actual GitHub Pages link once activated).*
 
